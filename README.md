@@ -4,5 +4,5 @@ Hello world!
 
 returns: 
 
-!dlrow looeh
+!dlrow olleH
 Numarul de caractere este: 12
